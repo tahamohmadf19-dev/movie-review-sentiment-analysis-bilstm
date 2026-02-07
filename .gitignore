@@ -1,0 +1,93 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data Science
+*.csv
+*.dat
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.npy
+*.npz
+
+# Datasets (do not upload large datasets)
+data/
+datasets/
+*.zip
+*.tar.gz
+*.rar
+
+# Model Weights (optional - comment out if you want to version models)
+models/*.h5
+models/*.keras
+*.pt
+*.pth
+*.ckpt
+
+# TensorFlow
+*.pb
+saved_model/
+checkpoint/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Environment Variables
+.env
+.env.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# API Keys & Credentials (NEVER commit these!)
+*credentials*.json
+*secret*.json
+*.pem
+*.key
+kaggle.json
