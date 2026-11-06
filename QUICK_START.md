@@ -11,7 +11,7 @@ Get up and running with the IMDB Sentiment Analysis model in under 5 minutes!
 ### Steps:
 
 1. **Open the notebook in Colab**:
-   - Click this badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/imdb-sentiment-analysis-bilstm/blob/main/imdb_sentiment_analysis_bilstm.ipynb)
+   - Click this badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tahamohmadf19-dev/imdb-sentiment-analysis-bilstm/blob/main/imdb_sentiment_analysis_bilstm.ipynb)
 
 2. **Enable GPU** (recommended):
    - Click `Runtime` → `Change runtime type`
@@ -43,7 +43,7 @@ Get up and running with the IMDB Sentiment Analysis model in under 5 minutes!
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/imdb-sentiment-analysis-bilstm.git
+git clone https://github.com/tahamohmadf19-dev/imdb-sentiment-analysis-bilstm.git
 cd imdb-sentiment-analysis-bilstm
 
 # 2. Create virtual environment
@@ -269,9 +269,9 @@ After successfully running the notebook:
 If you run into issues:
 
 1. **Check the docs**: See `docs/` folder
-2. **Search existing issues**: [GitHub Issues](https://github.com/yourusername/imdb-sentiment-analysis-bilstm/issues)
+2. **Search existing issues**: [GitHub Issues](https://github.com/tahamohmadf19-dev/imdb-sentiment-analysis-bilstm/issues)
 3. **Ask a question**: Open a new issue with the "question" label
-4. **Join discussions**: [GitHub Discussions](https://github.com/yourusername/imdb-sentiment-analysis-bilstm/discussions)
+4. **Join discussions**: [GitHub Discussions](https://github.com/tahamohmadf19-dev/imdb-sentiment-analysis-bilstm/discussions)
 
 ---
 

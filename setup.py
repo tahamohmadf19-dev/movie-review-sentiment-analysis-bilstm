@@ -17,11 +17,11 @@ setup(
     name="imdb-sentiment-bilstm",
     version="1.0.0",
     author="Mohmad Taha Jasem Alhmad",
-    author_email="your.email@example.com",
+    author_email="tahamohmadf19@gmail.com",
     description="Bidirectional LSTM model for IMDB sentiment analysis",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/imdb-sentiment-analysis-bilstm",
+    url="https://github.com/tahamohmadf19-dev/imdb-sentiment-analysis-bilstm",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -52,8 +52,8 @@ setup(
     },
     keywords="sentiment-analysis nlp deep-learning lstm tensorflow imdb",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/imdb-sentiment-analysis-bilstm/issues",
-        "Source": "https://github.com/yourusername/imdb-sentiment-analysis-bilstm",
-        "Documentation": "https://github.com/yourusername/imdb-sentiment-analysis-bilstm/blob/main/README.md",
+        "Bug Reports": "https://github.com/tahamohmadf19-dev/imdb-sentiment-analysis-bilstm/issues",
+        "Source": "https://github.com/tahamohmadf19-dev/imdb-sentiment-analysis-bilstm",
+        "Documentation": "https://github.com/tahamohmadf19-dev/imdb-sentiment-analysis-bilstm/blob/main/README.md",
     },
 )

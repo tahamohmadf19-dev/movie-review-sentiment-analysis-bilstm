@@ -383,9 +383,9 @@ Output: Probability [0, 1]
 ## 📞 Contact & Collaboration
 
 **Author**: Mohmad Taha Jasem Alhmad  
-**GitHub**: [@yourusername](https://github.com/yourusername)  
+**GitHub**: [@tahamohmadf19-dev](https://github.com/tahamohmadf19-dev)  
 **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)  
-**Email**: your.email@example.com
+**Email**: tahamohmadf19@gmail.com
 
 ### Open to:
 - Collaboration opportunities
