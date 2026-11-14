@@ -3,9 +3,11 @@
 A Keras notebook that classifies IMDB movie reviews as positive or negative, using text preprocessing
 that keeps negation words and a Bidirectional LSTM.
 
-**Status:** learning project. The notebook code has been corrected but **has not been re-run**, so it has
-no saved results. An earlier version of this README reported about 88% accuracy. That figure had no saved
-evidence and came from code that fitted the tokenizer on all data, so treat it as unverified.
+**Status:** learning project. The corrected notebook (tokenizer fitted on training text only) was run on
+Kaggle with a GPU on 2026-11-14: **test accuracy 0.8845 on 7,500 held-out reviews**, one run, no seed
+averaging. Run and outputs: [kaggle.com/code/tahamohmad/imdb-sentiment-bilstm-train-only-tokenizer](https://www.kaggle.com/code/tahamohmad/imdb-sentiment-bilstm-train-only-tokenizer).
+An earlier README reported about 88% from code that fitted the tokenizer on all data; that figure had no
+saved evidence. The leakage-free run lands in the same range.
 
 ## What the notebook does
 
