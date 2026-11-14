@@ -1,0 +1,14 @@
+{
+  "id": "tahamohmad/notebook94a9e358e0",
+  "title": "IMDB Sentiment: BiLSTM with a Train-Only Tokenizer",
+  "code_file": "../imdb_sentiment_analysis_bilstm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["lakshmi25npathi/imdb-dataset-of-50k-movie-reviews"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
