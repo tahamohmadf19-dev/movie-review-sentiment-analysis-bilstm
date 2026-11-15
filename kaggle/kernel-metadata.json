@@ -1,5 +1,5 @@
 {
-  "id": "tahamohmad/notebook94a9e358e0",
+  "id": "tahamohmad/imdb-sentiment-bilstm-train-only-tokenizer",
   "title": "IMDB Sentiment: BiLSTM with a Train-Only Tokenizer",
   "code_file": "imdb_sentiment_analysis_bilstm.ipynb",
   "language": "python",
